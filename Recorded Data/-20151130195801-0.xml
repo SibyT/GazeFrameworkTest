@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestPlanItem index="0">
+  <GazeDataProviderType>Dummy</GazeDataProviderType>
+  <BasicGazeTarget>
+    <FeedbackCursor>1</FeedbackCursor>
+    <NumberOfButtons>4</NumberOfButtons>
+    <ButtonHeightRatio>70</ButtonHeightRatio>
+    <DeadSpace>100</DeadSpace>
+    <SelectionTriggerType>KeyboardKeyC</SelectionTriggerType>
+  </BasicGazeTarget>
+  <RepetitionType>RANDOM_NO_SUCCESSIVE_REPEATS</RepetitionType>
+  <NumberOfSelections>2</NumberOfSelections>
+</TestPlanItem>

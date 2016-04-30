@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestPlannerModel>
+    <targetPresentationDelay>1000</targetPresentationDelay>
+    <TestPlanItem>
+        <gazeDataProviderType>TheEyeTribe</gazeDataProviderType>
+        <numberOfSelections>1</numberOfSelections>
+        <repType>RANDOM_NO_SUCCESSIVE_REPEATS</repType>
+        <targetSelectionType>BasicGazeTarget</targetSelectionType>
+        <targetSelectionTypeProperties>1</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>4</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>70</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>100</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>KeyboardKeyC</targetSelectionTypeProperties>
+    </TestPlanItem>
+	<TestPlanItem>
+        <gazeDataProviderType>TheEyeTribe</gazeDataProviderType>
+        <numberOfSelections>3</numberOfSelections>
+        <repType>RANDOM_NO_SUCCESSIVE_REPEATS</repType>
+        <targetSelectionType>BasicGazeTarget</targetSelectionType>
+        <targetSelectionTypeProperties>1</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>4</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>70</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>100</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>KeyboardKeyC</targetSelectionTypeProperties>
+    </TestPlanItem>
+	<TestPlanItem>
+        <gazeDataProviderType>TheEyeTribe</gazeDataProviderType>
+        <numberOfSelections>2</numberOfSelections>
+        <repType>RANDOM_NO_SUCCESSIVE_REPEATS</repType>
+        <targetSelectionType>BasicGazeTarget</targetSelectionType>
+        <targetSelectionTypeProperties>1</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>4</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>70</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>100</targetSelectionTypeProperties>
+        <targetSelectionTypeProperties>KeyboardKeyC</targetSelectionTypeProperties>
+    </TestPlanItem>
+</TestPlannerModel>
